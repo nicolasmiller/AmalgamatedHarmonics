@@ -20,6 +20,8 @@ extern Model *modelImperfect;
 
 extern Model *modelImperfect2;
 
+extern Model *modelMetaSequencer;
+
 extern Model *modelProgress;
 
 extern Model *modelRuckus;
